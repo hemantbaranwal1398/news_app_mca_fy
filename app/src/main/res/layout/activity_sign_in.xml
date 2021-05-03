@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/logo"
+    android:layout_height="match_parent"
+    tools:context=".SignIn">
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/signInButton"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_margin="20dp"
+        android:visibility="visible"
+        android:backgroundTint="@color/white"
+        android:textAlignment="center"
+        android:background="@drawable/white_background"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.75">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/google_logo"
+            android:layout_marginStart="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="60dp"
+            android:text="Sign In"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="40sp"
+            tools:layout_editor_absoluteX="24dp"
+            tools:layout_editor_absoluteY="556dp" />
+
+    </com.google.android.gms.common.SignInButton>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
