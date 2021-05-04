@@ -10,8 +10,7 @@ They can also search all deired news with related keywords.
 
 ## Hardware requirement:
 
-1. Computer system with minimum specification of
-  a. RAM - 8 GB
+1. RAM - 8 GB
   b. Processor - intel i5 8th gen or equivalent
   c. A phiysical android device for testing or you can create an emulator with hel of AVM in android studio
   d. Memory - Atleast 100 MB of storage for project
