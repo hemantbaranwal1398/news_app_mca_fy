@@ -11,9 +11,8 @@ They can also search all deired news with related keywords.
 ## Hardware requirement:
 
 1. RAM - 8 GB
-  b. Processor - intel i5 8th gen or equivalent
-  c. A phiysical android device for testing or you can create an emulator with hel of AVM in android studio
-  d. Memory - Atleast 100 MB of storage for project
-     and Storeage required for android studio.
-
-2. A phisical working android device for testing.
+2. Processor - intel i5 8th gen or equivalent
+3. A phiysical android device for testing or you can create an emulator with hel of AVM in android studio
+4. Memory - Atleast 100 MB of storage for project
+5. Storeage required for android studio.
+6. A phisical working android device for testing.
