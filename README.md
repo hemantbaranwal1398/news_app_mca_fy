@@ -15,6 +15,6 @@ They can also search all deired news with related keywords.
   b. Processor - intel i5 8th gen or equivalent
   c. A phiysical android device for testing or you can create an emulator with hel of AVM in android studio
   d. Memory - Atleast 100 MB of storage for project
-              and Storeage required for android studio.
+     and Storeage required for android studio.
 
 2. A phisical working android device for testing.
