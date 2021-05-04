@@ -31,29 +31,21 @@
 ## Built With
 - Android studio:
   - Android Studio is an official development environment for building Android apps which is provided by Google. This IDE is built on JetBrains IntelliJ IDEA software which is designed for Android development. This version of Android Studio comes with a modern UI toolkit for building native Android UI. It is based on a declarative programming model so you can describe how your UI will look like.
-- firebase google authentication
+- Firebase
+  - Firebase is a product of Google which helps developers to build, manage, and grow their apps easily. It helps developers to build their apps faster and in a more secure way. No programming is required on the firebase side which makes it easy to use its features more efficiently. It provides services to android, ios, web, and unity. It provides cloud storage. It uses NoSQL for the database for the storage of data.
+  - Learn more about it here - https://firebase.google.com/docs/guides
 - api
-
-## Contributing
+  - API is an abbreviation for Application Programming Interface which is a collection of communication protocols and subroutines used by various programs to communicate between them. A programmer can make use of various API tools to make its program easier and simpler. Also, an API facilitates the programmers with an efficient way to develop their software programs.
+  - Thus in simpler terms, an API helps two programs or applications to communicate with each other by providing them with necessary tools and functions. It takes the request from the user and sends it to the service provider and then again sends the result generated from the service provider to the desired user.
 
 #### Issues
 In the case of a bug report, bugfix or a suggestions, please feel very free to open an issue.
 
-#### Pull request
-Pull requests are always welcome, and I'll do my best to do reviews as fast as I can.
-
-## License
-
-This project is licensed under the [MIT License](https://github.com/this/project/blob/master/LICENSE)
-
 ## Get Help
-- Contact me on my-email@email.com
-- If appropriate, [open an issue](https://github.com/this/project/issues) on GitHub
-
-## Motivation
-Describe your motivation for creating this Open-Source Project
+- Contact me on my-email at "hcbaranwal_20@mc.vjti.ac.in"
 
 ## Acknowledgements
-Acknowledge the Open-Source projects that you've included in your solution.
-
-See this template in use on the Open-Source project [Hue Debugger UI](https://github.com/Silind-Software/Hue-Debugger-UI)
+- Firebase official documentation.
+- Youtube
+- Google
+- Newsapi.org
