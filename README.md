@@ -1,17 +1,12 @@
-# Title of Your Project [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20this%20cool%20project&url=https://github.com/Cool/Project&hashtags=project,opensource)
+# News app
 
-![Github License](https://img.shields.io/badge/license-MIT-green)
-![Code Coverage](https://img.shields.io/badge/coverage-90%25-green)
-![React Version](https://img.shields.io/badge/react-v16.12.0-blue.svg)
-
-![example](https://mdn.mozillademos.org/files/10529/inspector.png)
-
-#### Description of your project
+#### This an androd app to show variuos news articals with help of an news API. In this a user can use their google id to authenticate and then they will be send to Home page of the appliction were they can see all Top Headlines from the news API site.
+#### They can also search all deired news with related keywords.
 
 ## Table of content
 
 - [**Getting Started**](#getting-started)
-- [Built With](#built-with)
+- [Installing project](#install)
 - [Contributing](#contributing)
 - [License](#license)
 - [Get Help](#get-help)
@@ -19,12 +14,12 @@
 - [Acknowledgments](#acknowledgements)
 
 ## Getting Started
-Describe how to get started here.
+ First download and install Android Studio to your system from https://developer.android.com/studio/
+ Register your self on Google firebase https://firebase.google.com/
+ Generate an API key on https://newsapi.org/
 
 ### Install
-```console
-npm install your-project
-```
+
 
 ### Usage
 Describe how you use it here.
