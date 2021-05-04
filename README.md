@@ -7,9 +7,9 @@
 
 - [**Getting Started**](#getting-started)
 - [Installing project](#install)
-- [Contributing](#contributing)
+- [Built With](#built-with)
+- [Issues](#issues)
 - [Get Help](#get-help)
-- [Motivation](#motivation)
 - [Acknowledgments](#acknowledgements)
 
 ## Getting Started
