@@ -27,6 +27,7 @@
    - paste the link in the box
    - Click "clone" button
  - Your project will be created and code will be imported
+ - **You can also refer the video for more info.**
 
 ## Built With
 - Android studio:
