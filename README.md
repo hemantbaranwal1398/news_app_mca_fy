@@ -1,7 +1,7 @@
 # News app
 
-#### This an androd app to show variuos news articals with help of an news API. In this a user can use their google id to authenticate and then they will be send to Home page of the appliction were they can see all Top Headlines from the news API site.
-#### They can also search all deired news with related keywords.
+#### This an android app to show various news articles with help of an news API. In this a user can use their google id to authenticate and then they will be sent to the Home page of the application where they can see all Top Headlines from the news API site.
+#### They can also search all desired news with related keywords.
 
 ## Table of content
 
@@ -21,13 +21,13 @@
 ### Install
  - Link git with your github account.
  - Link android studio with your github.
- - Clone project from the repository by coping the clone link in "code" drop-down button
-   - First launch and follow androd studio > file > new > project form version control
+ - Clone project from the repository by copying the clone link in "code" drop-down button
+   - First launch and follow android studio > file > new > project form version control
    - Specify the path where you want to install the project
    - paste the link in the box
    - Click "clone" button
  - Your project will be created and code will be imported
- - **You can also refer the video for more info.**
+ - **You can also refer to the video for more info.**
 
 ## Built With
 - Android studio:
@@ -40,7 +40,7 @@
   - Thus in simpler terms, an API helps two programs or applications to communicate with each other by providing them with necessary tools and functions. It takes the request from the user and sends it to the service provider and then again sends the result generated from the service provider to the desired user.
 
 #### Issues
-In the case of a bug report, bugfix or a suggestions, please feel very free to open an issue.
+In the case of a bug report, bugfix or a suggestion, please feel very free to open an issue.
 
 ## Get Help
 - Contact me on my-email at "hcbaranwal_20@mc.vjti.ac.in"
@@ -50,3 +50,6 @@ In the case of a bug report, bugfix or a suggestions, please feel very free to o
 - Youtube
 - Google
 - Newsapi.org
+
+
+
