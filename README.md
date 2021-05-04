@@ -14,12 +14,19 @@
 - [Acknowledgments](#acknowledgements)
 
 ## Getting Started
- First download and install Android Studio to your system from https://developer.android.com/studio/
- Register your self on Google firebase https://firebase.google.com/
- Generate an API key on https://newsapi.org/
+ - First download and install Android Studio to your system from https://developer.android.com/studio/
+ - Register your self on Google firebase https://firebase.google.com/
+ - Generate an API key on https://newsapi.org/
+ - Download git on your system https://git-scm.com/
 
 ### Install
-
+ - Link git with your github account.
+ - Link android studio with your github.
+ - Clone project from the repository by coping the clone link in "code" drop-down button
+   - First androd studio > file > new > project form version control
+   - Specify the path where you want to install the project
+   - paste the link in the box
+   - Click "clone" button
 
 ### Usage
 Describe how you use it here.
