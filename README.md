@@ -8,7 +8,6 @@
 - [**Getting Started**](#getting-started)
 - [Installing project](#install)
 - [Contributing](#contributing)
-- [License](#license)
 - [Get Help](#get-help)
 - [Motivation](#motivation)
 - [Acknowledgments](#acknowledgements)
@@ -23,26 +22,17 @@
  - Link git with your github account.
  - Link android studio with your github.
  - Clone project from the repository by coping the clone link in "code" drop-down button
-   - First androd studio > file > new > project form version control
+   - First launch and follow androd studio > file > new > project form version control
    - Specify the path where you want to install the project
    - paste the link in the box
    - Click "clone" button
+ - Your project will be created and code will be imported
 
-### Usage
-Describe how you use it here.
-```javascript
-import { configure, useProject } from 'your-project';
-
-configure();
-
-const App = () => {
-  const [project, setProject] = useProject();
-  // ... More pseudo code here...
-}
-```
 ## Built With
-
-Explain which technologies you've used here.
+- Android studio:
+  - Android Studio is an official development environment for building Android apps which is provided by Google. This IDE is built on JetBrains IntelliJ IDEA software which is designed for Android development. This version of Android Studio comes with a modern UI toolkit for building native Android UI. It is based on a declarative programming model so you can describe how your UI will look like.
+- firebase google authentication
+- api
 
 ## Contributing
 
