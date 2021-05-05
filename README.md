@@ -26,6 +26,7 @@
    - Specify the path where you want to install the project
    - paste the link in the box
    - Click "clone" button
+   - Wait for the building process to finish.
  - Your project will be created and code will be imported
  - **You can also refer to the video for more info.**
 
