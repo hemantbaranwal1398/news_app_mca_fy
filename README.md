@@ -23,7 +23,7 @@
  - Link git with your github account.
  - Link android studio with your github.
  - Clone project from the repository by copying the clone link in "code" drop-down button
-   - First launch and follow android studio > file > new > project form version control
+   - First launch and follow [android studio > file > new > project form version control]
    - Specify the path where you want to install the project
    - paste the link in the box
    - Click "clone" button
