@@ -34,6 +34,7 @@
 ### How to Run
  - After installing with the above process.
  - You have to generate a SHA-1 key for debugging and have to add that key to your firebase project so it can authenticate that its you who is trying to edit.
+ - You can refer to youtube to know how you can get your key
  - Click on run button “Run” button to start executing code in your android studio
  - It will launch the app on your Android Emulator or Android device connected
  - **You can also refer to the video for more info.**
