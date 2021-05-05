@@ -7,6 +7,7 @@
 
 - [**Getting Started**](#getting-started)
 - [Installing project](#install)
+- [How to Run](#how-to-run)
 - [Built With](#built-with)
 - [Issues](#issues)
 - [Get Help](#get-help)
@@ -29,6 +30,14 @@
    - Wait for the building process to finish.
  - Your project will be created and code will be imported
  - **You can also refer to the video for more info.**
+
+### How to Run
+ - After installing with the above process.
+ - You have to generate a SID key for debugging and have to add that key to your firebase project so it can authenticate that its you who is trying to edit.
+ - Click on run button “Run” button to start executing code in your android studio
+ - It will launch the app on your Android Emulator or Android device connected
+ - **You can also refer to the video for more info.**
+
 
 ## Built With
 - Android studio:
